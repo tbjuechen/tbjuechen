@@ -10,6 +10,7 @@
 
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=tbjuechen&theme=tokyonight" /> </div>
 
+<img src="/github-metrics.svg" alt="Metrics" width="100%">
 
 ## 🛠️ Favorite Tools
 - 🖥️ Editor: VSCode
