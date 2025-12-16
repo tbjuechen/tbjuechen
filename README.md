@@ -4,11 +4,7 @@
 
 ## 📈 GitHub Stats
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tbjuechen&show_icons=true&theme=tokyonight" /> </div>
-
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tbjuechen&theme=tokyonight&layout=compact" /> </div>
-
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=tbjuechen&theme=tokyonight" /> </div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tbjuechen&show_icons=true" /> </div>
 
 <img src="/github-metrics.svg" alt="Metrics" width="100%">
 
