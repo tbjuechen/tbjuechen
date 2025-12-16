@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1047" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1258" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.tracklist,footer{display:flex;flex-direction:column}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.tracklist{align-items:flex-start;margin-left:28px;margin-top:4px;width:100%}.track{display:flex;align-items:center;justify-content:center;margin-bottom:4px}.track img{margin:0 10px;border-radius:7px;flex-shrink:0}.track .artist,.track .name{width:387px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.track .name{font-size:14px;line-height:14px;height:14px;font-weight:600}.track .artist{font-size:12px;color:#666}.track .infos{flex-grow:1}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal{justify-content:space-around}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.tracklist,footer{display:flex;flex-direction:column}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.tracklist{align-items:flex-start;margin-left:28px;margin-top:4px;width:100%}.track{display:flex;align-items:center;justify-content:center;margin-bottom:4px}.track img{margin:0 10px;border-radius:7px;flex-shrink:0}.track .artist,.track .name{width:387px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.track .name{font-size:14px;line-height:14px;height:14px;font-weight:600}.track .artist{font-size:12px;color:#666}.track .infos{flex-grow:1}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;display:flex;flex-direction:column;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.activity .field,.chart-bars.horizontal .entry .name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.activity{margin-bottom:12px}.activity .field{width:100%;max-width:450px;margin-bottom:0}.activity .issue{display:inline;color:#58a6ff}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    10.7k added, 569 removed
+                                    729k added, 3.48k removed
                                 </div>
                             </section>
                             <section>
@@ -308,31 +308,31 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAgICAwAAAAAAAAAAAAAAAAYFCAQHAQID/8QALhAAAQMCBQIEBQUAAAAAAAAAAQIDBAARBQYSITETQRQiYXEHMlGB0RVSkaGx/8QAGAEAAwEBAAAAAAAAAAAAAAAAAAIDAQT/xAAbEQEBAAIDAQAAAAAAAAAAAAAAAQIRAxITUf/aAAwDAQACEQMRAD8A1TljFssRcFjoxTD2XpqdQcKm3CpfmNiFAgDYjt2qYezRlaMtKYOWo0lsKSdannUDVffY3PHrWrUE35r3Q7ZKt+4Nd8kqO22Wc3YOzg7aH8tsP6HFAqVJWL8E0pTczYO4xMDWV4bbrxPTc8Q4el5bbC9ib2Vv3uODS+5KV4JKL7FRP9AVGrVem6yM2Z8XzDgkuBIYh5WjQ31pCUSESnFFsg3KgDsb8WO33opVoqZnKTbt/NdjZQ8tx6Xq5S8hZMgQ+krBoakJ/cgqVzxfmhHw5yQ4Oq5gMUNqHnGhQ29Bf/KScsg0q9juVfAZZiYrHnNSkFDan9IKQhTlyhKbi6iAN/p7b0pE+oq7Q+H2Au4V+jpSF4D1EO+DcSVbp+Wy/m7DvxcGpJrIeVZLR62XMMvYt3EdN9Pval9vreqidFXfn/DDJcqG5HOCxGUFCUktjQoaeDcb/mij1g0UG5WKuKbWt90IPCQd7+9STUzGXVgdRSWk7FSSSfxRRVKlMWay7NUpJdekLCuNKiB9/WhyRjMcK0OydP0LlvL96KKlclOkYE2XiqtK+rIR3sVki3uKKKKeZJ3F/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMAAwAAAAAAAAAAAAAAAAYDBQcBAgT/xAAsEAACAQMDAQYGAwAAAAAAAAABAgMABBEFEiExBhMiQVFhFBUycYGhB0Lw/8QAFwEBAQEBAAAAAAAAAAAAAAAABAMGBf/EAB4RAAEEAgMBAAAAAAAAAAAAAAEAAgMRBCESMUEi/9oADAMBAAIRAxEAPwDP/kzMVzGMAY4GP8akutKENpLP3ZYoudqjk+XQVpq6KB1ArzF7C01WGzF1CmoEgxRtzluoHTH4rSyP1orMNErnDl0sgvrbUtKukk1CBFVsOYWUKdpPUDzH68qY00MFElVchhuGRxgimL+VO2FvrEV3aQ6YHuUhWCSYOPEqvv2gDOMt71YdmNO1WbTkOs2sUBaNWhEY428jB5IyMetCxpnk0/RKblwVuHdJH+R57zCnhTjiitPGjqA3h5IxRTuZQgJh4rf4kegpD12+tjqF1Zpt71LyO/WcE5ULtEkY9ScLTPHcxs3DgDP5pF+E3xXly4bEk+cKvIHJY+tBmeHgBa3NgELfkdrvqui6Wth81j1CeLVLq4aOSPcMHJzjOeAAfL2p2gTTlu7mS/uZrVLO1gktw07bYPCpboQGDFscg1ndzps89tYhYQkaxb+Rjksc59TU2pabLc2aBrg7bjY0jO+7hPCo+wz08qO6P29osQ1pq1NbtGAK7Sp6EHIopI7EKbPTbm3uZwwinIRSfpGBn90U0ShdOHFZIwOqktJ2iiWSIKzKwUd5lgQT7e3T1riTWt3dwwyxCQlnJaTaoBGMHjrRRRVLOcXAC+1fadqkEsGHO0KhCI7K5XaV/ZGenBqGfV7NLWbu3XajHaCyh2OT1UHj7eVFFSpHgkcKpLMvaHE0ndtgEbvq/tRRRVLXda40v//Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">苦瓜</div>
+                                    <div class="name">香水 (LIVE)</div>
+                                    <div class="artist">五月天</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwADAQAAAAAAAAAAAAAAAAUGAwQHAf/EAC0QAAEDAwMDAwMEAwAAAAAAAAECAwQABRESITEGIkETUZEHFHEVI2GhFjKx/8QAGQEBAAMBAQAAAAAAAAAAAAAAAQACAwQF/8QAHREBAAICAwEBAAAAAAAAAAAAAQACERIDITEiQf/aAAwDAQACEQMRAD8A5HYZzAtcFpt94slKULaaSEKcXjck5yQPimrkdch11VvLqpDQCUuOL0hsHjOai7JIjtQkNqZk/cq0+ktjdRV7D2+DTOdHmtxkRUx5TGpP78mQsEaeeRwP+153Jx/Xsthxmb0q1x2JDP8Ak0l1S3dWt9twLGcjA34OMnjBrY6W6Tt81IcddUtgy1MLfQ4AkDSopP8AQP8AXNT9uYZS6h1MwIU2rZbmMJT+Dv8AGaYp6qfiyNDUZL8dOU9rncvbY6vBzvsONv5rQ2DFfZOpj6vszVotrLzU9h5xxOlQbKS4chWScbgcDB3or299Rxn7KG2Ii4z6ysrUEZCUqB7Mnkj3x5O/sVvVtjsh1FfTEn0QysXKJDWBp1PoKtI2PA8Hj3rcvd8lyW1Q/wBWgvRsk/tJUgKHtuM1Y/TL6eqvEOE5drK6zGTmV9w42oCQ2UdqQvOOcEfNIr/0tD6ec6ngr0vlpLT0eQ4nSfSU7pBQAcbgjnxxS8Y2yka2zX3qQjbqVFYGBnGNjz84xWE6hqK3MKBGEkHf+apkWm2u2+Ow6t1l5Be9R8d4UQElI0jcDfGfwfFWqfp9a3rvdJLyVi1x2goNoWQUZ9PfUedl7Z580qV/I1rsKeE5czLeVAkxspKVpzk87HPPmiq/qX6fqsdlhXJckSESEOFxtKDhlSR/oVZ3OfI5xRS2CU2IxXJubvT9shLnzI8H0WQpw4HKe0IwASPHJp9AkPSY8t25xJUlZaRDT6sdS0lCMBK86dz2555xRRXLy3WosaW1cEczJbrk2eVoLlrw+Wkqi9nejAAITuMq9/xWfq29PKluNW19DadaXIzjEfSppJQnLatsnfkHkAZFFFX2UZK2a9Elb/8AcSbQ/GczGZZirU00kK06sqKj3DPnjOwooorLeyGZSz35P//Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">夜访吸血鬼</div>
+                                    <div class="artist">五月天</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMAAwAAAAAAAAAAAAAAAAcCAwYEBQj/xAAuEAABAwMCBAQGAwEAAAAAAAABAgMEAAURBhIHEyExIkFhcRQVI1GR0SSB8PH/xAAZAQACAwEAAAAAAAAAAAAAAAAABAECBQP/xAAfEQACAgMAAwEBAAAAAAAAAAABAgADBBETEiExFEH/2gAMAwEAAhEDEQA/AGNqHjOLLf5trdsrzioy9vNDgAX0ByB3864h46tAqzZ/CO/8gZHuMUq+Ivzh/iNd022FJfjoeCSUIKhu2jNSh21mFqGO5eYCn48daFOslWxCsg9FE+QOMj7UrZey2FYxXjhqw39jOTx8jqAKLK4UE43B4YzV7fHNlThQ5ZXmlAZ8bgA/NGqLrorUGhrjGbVbI81MbmMpbb5SgsDwhCto3DIxgd/tSKjWCZcHbdCtkh9fxC1b1gFzlN9M9uuMkUNcw+GV4+9anofTvF5u9XGJEbti2viXC0lZWCAcE/jpRS203ppyway00Q4/IiOlKkOuNFBCiFDBB6g9KKbxW81JaKZSmpwBGTfLC5db0tUKQWFcoBzljGVAkglXYHrjGDkVidR8N9TXKc3LeuDUdtHLUrY6XjlPc7SBuHpkd6b8ZsMrdWkqJdVuOew9qsekhvG8kZ9KzXR3ubQ2Y6MkLWoPwRRTNMP3aHBimS78IxMS5NCooRuaBJGw9icnt16H062SIekrXr21wrOzcYYktqS4plX01FRG3r1OQR6d6agQJaFbCCkf9rrJGmecvmMqCF5HiSrBo53IPEpLfrR28iZio+lNXP69tU+7NsxrJbVLLLSJHMUs4IClDz79PsDRWyj2ObFmMSZE19xDXhCeaSnB8iOx/uitLCBCEEa9xDKcOwJM0qrJIJP1G+uf92qDlhkKVnmoz7miiuovcShx0MsjWaUwFBDrfix5qq75fO8pCQPc/qiio7MfZhwQDQkVWuYvAcfSoD1P6oooo7MIcEn/2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">热带雨林</div>
+                                    <div class="artist">S.H.E</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMAAwAAAAAAAAAAAAAAAAQCAwUGBwj/xAAtEAACAQMDAgQFBQEAAAAAAAABAgMABBEFEiEGMRNBUYEUIlKRwRVhcYKh0f/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDzXoK7jPjGcDv71uad8DcOIrmeWK43AbEjLnHOeAOeawNIcRw3b+IEdVBXkcnnjB71RbTnezMzbgC2c8+VB2ENBg+KEaSXT5XKk27LubnIwRkDt96yNRjsbe5a3t7qR50OHjkjKkfel5WvNP0Kw1F3eRJm4wHG30yxG09jwD5VxdpGmuTJM5LM2XYnk+tA/r+D4BU5B3cj2oqXUG3bbbAQuCAMY44ooIaMhkhu41i8VmCgDsB37mkJUMMkisBkZXj1rW6Y73Izg4X80xqtrElgQigbTuLHufXmgruNYurrpqy0yaRWtreRmiUDnJHOT/zFZ9hC1xcKBGHUYbvyP2rUttCnuNLh1COB4rGadbdZpM7UbHPzduTn/KW0hGtLuTx1KgZXP0nPnQHUu7FsXAB+bj3FFS6oIPwpGCMNyD/FFBV0821p/wCv5p7VXMdoskib42I+XOMjPPPl6UUUFVhr00dpNo8IP6RdTI7QTESGNgRyrYGD7dqYtlYXTRSEu6sxdj5jyz7UUUGb1BB4DwhWPhtuKr9PbNFFFB//2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">陀飞轮</div>
                                     <div class="artist">陈奕迅</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUCAwYEB//EAC8QAAIBAwMDAgQFBQAAAAAAAAECAwQFEQASIQYxQRMiBzJRYRQVQlKBYnGCkaH/xAAZAQADAQEBAAAAAAAAAAAAAAABAwQCAAX/xAAgEQABAwMFAQAAAAAAAAAAAAABAAIDESExBAUSQWET/9oADAMBAAIRAxEAPwDEfDWzW2phaouEEcrTkwh5HwIefnUdm+4wSfGNbMdIQqwBipSGJCEICGx9PrpN8PaqGh+HdXV1UZeOFpm7A5PAAweO+NTf4hxJDJUflkNNDHiNZPUYPI5IyVRThRg555I7fTVRe+p4hRajZYpmtMshqb2tY9LrSzWhmZBLQ7lJBygGDnHn76vXpWlmTdAlFID+0KdNrjPa6SnqYopbdNDU7pJZGm9RPDRhipzncMeMlueM6j0vJYUognU9PTTR7XYxFzG6lSu0sykYAH1H+9FszsledNsETKt+pBHq8s+IlFT0P4WKEQiXe24RAcf3x9/GjWZu1wmrpjv3+izNLEJeXwzH5m89tGnEk5VOngEEYjaSadp103Ti70kdmpGq6y61TstPSev6VPFxn1GOfceMgduNbe9dFdP9NWMWOYQVvWNbTM8kpLNFRouWZxtBOcA4yO3gDvg+naerb8LLQiGKd/WCSrI0bjYu5gSD5HAx3PB10WuouNPfZa2CoSquj0vrb5wZd6unIIwQTtbkNxjSS01sbKsyEtvla3ovpd+vum7/ACUcFBb5rckSwx0aFFqZRkgsWJHIGPHcHxpV1VS3mwW9I770qkKtF6K1RkfIG4nBeMgf4sT2yNJIWLUrU0Uc1NSvCspCVywmUL7VZkPtLE88847Htqm6V16rIq7dcKprenzQvXmYBcqAD7ueWHOMHnHbXcTy8WXEOaAcpE0kclLCMP66e05/b4wc/wDMfzo1Vo04pYr2rVqJ1RUWaUKM4UOcDPfA1dUV0tTAsdUFmZMBJH+dQP058j7HOPGNGjQXJvZbyv53b6iqpaR50k2vNLgIYzwcqfbkA4B7AYBBwNLrhQTGeonijjeDezD0pY5Noz/QcD+ABo0aC1kJdo0aNFZX/9k=" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">有些事现在不做 一辈子都不会做了</div>
-                                    <div class="artist">五月天</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUCAwYEB//EAC8QAAIBAwMDAgQFBQAAAAAAAAECAwQFEQASIQYxQRMiBzJRYRQVQlKBYnGCkaH/xAAZAQADAQEBAAAAAAAAAAAAAAABAwQCAAX/xAAgEQABAwMFAQAAAAAAAAAAAAABAAIDESExBAUSQWET/9oADAMBAAIRAxEAPwDEfDWzW2phaouEEcrTkwh5HwIefnUdm+4wSfGNbMdIQqwBipSGJCEICGx9PrpN8PaqGh+HdXV1UZeOFpm7A5PAAweO+NTf4hxJDJUflkNNDHiNZPUYPI5IyVRThRg555I7fTVRe+p4hRajZYpmtMshqb2tY9LrSzWhmZBLQ7lJBygGDnHn76vXpWlmTdAlFID+0KdNrjPa6SnqYopbdNDU7pJZGm9RPDRhipzncMeMlueM6j0vJYUognU9PTTR7XYxFzG6lSu0sykYAH1H+9FszsledNsETKt+pBHq8s+IlFT0P4WKEQiXe24RAcf3x9/GjWZu1wmrpjv3+izNLEJeXwzH5m89tGnEk5VOngEEYjaSadp103Ti70kdmpGq6y61TstPSev6VPFxn1GOfceMgduNbe9dFdP9NWMWOYQVvWNbTM8kpLNFRouWZxtBOcA4yO3gDvg+naerb8LLQiGKd/WCSrI0bjYu5gSD5HAx3PB10WuouNPfZa2CoSquj0vrb5wZd6unIIwQTtbkNxjSS01sbKsyEtvla3ovpd+vum7/ACUcFBb5rckSwx0aFFqZRkgsWJHIGPHcHxpV1VS3mwW9I770qkKtF6K1RkfIG4nBeMgf4sT2yNJIWLUrU0Uc1NSvCspCVywmUL7VZkPtLE88847Htqm6V16rIq7dcKprenzQvXmYBcqAD7ueWHOMHnHbXcTy8WXEOaAcpE0kclLCMP66e05/b4wc/wDMfzo1Vo04pYr2rVqJ1RUWaUKM4UOcDPfA1dUV0tTAsdUFmZMBJH+dQP058j7HOPGNGjQXJvZbyv53b6iqpaR50k2vNLgIYzwcqfbkA4B7AYBBwNLrhQTGeonijjeDezD0pY5Noz/QcD+ABo0aC1kJdo0aNFZX/9k=" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">仓颉</div>
-                                    <div class="artist">五月天</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAgICAwAAAAAAAAAAAAAAAAcFBgEEAgMI/8QALhAAAQMDAwQCAAQHAAAAAAAAAQIDBAAFEQYhMQcSQVETIhRhcdEWIyQyUoGh/8QAFwEBAQEBAAAAAAAAAAAAAAAAAgEAA//EAB0RAAIDAAIDAAAAAAAAAAAAAAABAhESEyEDMUH/2gAMAwEAAhEDEQA/ALB1Q6j6zs+t7ha7E+ER2lpDYMZtYAKQeSM85q69JNQ33UNukyrldXpBba7Ch2AhhPyZH2QRuRjbf9aoHXPTtzn6wS9a7LcXgpR+V+PFWsEduAcgb4pndNkpg2JUUwZ6HkshxYdiuN9xOBjKgMnI4G9BWzC/15qzqfbtUXVq1PwG7dHU2WUKabUpaVAb7jPOfX5VP3/qDqiNZdLSYMGM3+PgiXNfkpKQ2rGShI8KIyRnPFHV2LKuViQ7HsExU9DiAh6MwpbqUgk7YGR+xrbuEa83SPppEy2vfhJMFCZLRayGnQFEd6SMgAbb45rS0k2KOeiw6U1Y7e5cT43lLZdGVZaA/wAucHbgUVXtOW26QuoiFsRZItiyO5ZZISAGz5I9+vdFWLbRGhrKeSkkFLm3pBNdbzxUysM96XMfUqbVgf8AK85dUL3q+DrG7x4FxnIZW7/SttPKKUJ2BylO4394qU6G3TVlzk6jVqCZNUGmEobDrxIQvIIKQTkfU81tpA7fwd/yyG1AvSWkpzwWyNvPNYafkFaSZMdaQTkBJFKqz9RZM7VEqyRo0/thrXHVMdV/LW4gEqAOcjg7/uK3+pd7vVrt0ddrmuMSZ7TDKCAVBvHyKdWnx3doHOPFLaqyqLuhotP97nZ3pJ9AGik50gvl+e1pcLbdLlKl2sshyIZqh8yljZeMcgZ39fWiomn6K7XTLZqOyz7pMnMrsoXGW4C2+h1tK9h/cN888g1saSs9zhCSzMhhhj4QhoBaFed8kHJP60UVy4o3Z05HVEF/BlxZm3ZyHb2mDIK3GnkPDu7yc5KScfbfP+ufEvNs15k26DEksJfabgpbeR3pT3OnIODnwPyxRRTys0GEmp6OWkdMOWedDWmIpCGvkJW4tK1JKx9twfJCePVFFFJKlSF5Jadn/9k=" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">恋爱ing</div>
-                                    <div class="artist">五月天</div>
                                 </div>
                             </div>
                         </div>
@@ -1850,9 +1850,91 @@
                     </section>
                 </div>
             </section>
+            <section>
+                <h2 class="field">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                        <path fill-rule="evenodd" d="M2.75 1a.75.75 0 000 1.5h.75v1.25a4.75 4.75 0 001.9 3.8l.333.25c.134.1.134.3 0 .4l-.333.25a4.75 4.75 0 00-1.9 3.8v1.25h-.75a.75.75 0 000 1.5h10.5a.75.75 0 000-1.5h-.75v-1.25a4.75 4.75 0 00-1.9-3.8l-.333-.25a.25.25 0 010-.4l.333-.25a4.75 4.75 0 001.9-3.8V2.5h.75a.75.75 0 000-1.5H2.75zM11 2.5H5v1.25a3.25 3.25 0 001.3 2.6l.333.25c.934.7.934 2.1 0 2.8l-.333.25a3.25 3.25 0 00-1.3 2.6v1.25h6v-1.25a3.25 3.25 0 00-1.3-2.6l-.333-.25a1.75 1.75 0 010-2.8l.333-.25a3.25 3.25 0 001.3-2.6V2.5z"/>
+                    </svg>
+                    WakaTime (over last week)
+                </h2>
+                <div class="row">
+                    <section class="largeable-column-fields">
+                        <div class="field">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"/>
+                            </svg>
+                            ~1 coding hours recorded
+                        </div>
+                        <div class="field">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
+                            </svg>
+                            Working on hias-postgraduat…
+                        </div>
+                        <div class="field">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/>
+                            </svg>
+                            Mostly coding in Python
+                        </div>
+                    </section>
+                    <section class="largeable-column-fields">
+                        <div class="field">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M6 2a.75.75 0 01.696.471L10 10.731l1.304-3.26A.75.75 0 0112 7h3.25a.75.75 0 010 1.5h-2.742l-1.812 4.528a.75.75 0 01-1.392 0L6 4.77 4.696 8.03A.75.75 0 014 8.5H.75a.75.75 0 010-1.5h2.742l1.812-4.529A.75.75 0 016 2z"/>
+                            </svg>
+                            ~1 hours of coding per day
+                        </div>
+                        <div class="field">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M0 2.75C0 1.784.784 1 1.75 1h12.5c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0114.25 15H1.75A1.75 1.75 0 010 13.25V2.75zm1.75-.25a.25.25 0 00-.25.25v10.5c0 .138.112.25.25.25h12.5a.25.25 0 00.25-.25V2.75a.25.25 0 00-.25-.25H1.75zM7.25 8a.75.75 0 01-.22.53l-2.25 2.25a.75.75 0 11-1.06-1.06L5.44 8 3.72 6.28a.75.75 0 111.06-1.06l2.25 2.25c.141.14.22.331.22.53zm1.5 1.5a.75.75 0 000 1.5h3a.75.75 0 000-1.5h-3z"/>
+                            </svg>
+                            Coding with VS Code
+                        </div>
+                        <div class="field">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M6.5.75a.75.75 0 00-1.5 0V2H3.75A1.75 1.75 0 002 3.75V5H.75a.75.75 0 000 1.5H2v3H.75a.75.75 0 000 1.5H2v1.25c0 .966.784 1.75 1.75 1.75H5v1.25a.75.75 0 001.5 0V14h3v1.25a.75.75 0 001.5 0V14h1.25A1.75 1.75 0 0014 12.25V11h1.25a.75.75 0 000-1.5H14v-3h1.25a.75.75 0 000-1.5H14V3.75A1.75 1.75 0 0012.25 2H11V.75a.75.75 0 00-1.5 0V2h-3V.75zm5.75 11.75h-8.5a.25.25 0 01-.25-.25v-8.5a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25zM5.75 5a.75.75 0 00-.75.75v4.5c0 .414.336.75.75.75h4.5a.75.75 0 00.75-.75v-4.5a.75.75 0 00-.75-.75h-4.5zm.75 4.5v-3h3v3h-3z"/>
+                            </svg>
+                            Using Mac
+                        </div>
+                    </section>
+                </div>
+                <div class="row">
+                    <section class="column chart">
+                        <h3>Projects activity</h3>
+                        <div class="chart-bars horizontal">
+                            <div class="entry">
+                                <span class="name">hias-postgraduate-help-bot</span>
+                                <div class="bar" style="width: 50%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">63%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">Chinese-Resume-in-Typst</span>
+                                <div class="bar" style="width: 30%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">38%</span>
+                            </div>
+                        </div>
+                    </section>
+                    <section class="column chart">
+                        <h3>Language activity</h3>
+                        <div class="chart-bars horizontal">
+                            <div class="entry">
+                                <span class="name">Python</span>
+                                <div class="bar" style="width: 50%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">63%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">Typst</span>
+                                <div class="bar" style="width: 30%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">38%</span>
+                            </div>
+                        </div>
+                    </section>
+                </div>
+            </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Dec 2025, 02:07:43 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 17 Dec 2025, 02:11:33 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
