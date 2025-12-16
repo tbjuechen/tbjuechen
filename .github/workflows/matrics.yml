@@ -51,3 +51,6 @@ jobs:
           plugin_music_playlist: https://embed.music.apple.com/cn/playlist/%E8%BD%A6%E8%BD%BD/pl.u-RRbVvlxIDLbaAm       
           # 限制显示的歌曲数量
           plugin_music_limit: 4
+          plugin_wakatime: yes
+          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
