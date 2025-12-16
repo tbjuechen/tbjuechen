@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            408 Commits
+                            409 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    28.3k added, 3.75k removed
+                                    729k added, 3.59k removed
                                 </div>
                             </section>
                             <section>
@@ -209,7 +209,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    432 views in last two weeks
+                                    443 views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -308,31 +308,31 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUCAwYEB//EAC8QAAIBAwMDAgQFBQAAAAAAAAECAwQFEQASIQYxQRMiBzJRYRQVQlKBYnGCkaH/xAAZAQADAQEBAAAAAAAAAAAAAAABAwQCAAX/xAAgEQABAwMFAQAAAAAAAAAAAAABAAIDESExBAUSQWET/9oADAMBAAIRAxEAPwDEfDWzW2phaouEEcrTkwh5HwIefnUdm+4wSfGNbMdIQqwBipSGJCEICGx9PrpN8PaqGh+HdXV1UZeOFpm7A5PAAweO+NTf4hxJDJUflkNNDHiNZPUYPI5IyVRThRg555I7fTVRe+p4hRajZYpmtMshqb2tY9LrSzWhmZBLQ7lJBygGDnHn76vXpWlmTdAlFID+0KdNrjPa6SnqYopbdNDU7pJZGm9RPDRhipzncMeMlueM6j0vJYUognU9PTTR7XYxFzG6lSu0sykYAH1H+9FszsledNsETKt+pBHq8s+IlFT0P4WKEQiXe24RAcf3x9/GjWZu1wmrpjv3+izNLEJeXwzH5m89tGnEk5VOngEEYjaSadp103Ti70kdmpGq6y61TstPSev6VPFxn1GOfceMgduNbe9dFdP9NWMWOYQVvWNbTM8kpLNFRouWZxtBOcA4yO3gDvg+naerb8LLQiGKd/WCSrI0bjYu5gSD5HAx3PB10WuouNPfZa2CoSquj0vrb5wZd6unIIwQTtbkNxjSS01sbKsyEtvla3ovpd+vum7/ACUcFBb5rckSwx0aFFqZRkgsWJHIGPHcHxpV1VS3mwW9I770qkKtF6K1RkfIG4nBeMgf4sT2yNJIWLUrU0Uc1NSvCspCVywmUL7VZkPtLE88847Htqm6V16rIq7dcKprenzQvXmYBcqAD7ueWHOMHnHbXcTy8WXEOaAcpE0kclLCMP66e05/b4wc/wDMfzo1Vo04pYr2rVqJ1RUWaUKM4UOcDPfA1dUV0tTAsdUFmZMBJH+dQP058j7HOPGNGjQXJvZbyv53b6iqpaR50k2vNLgIYzwcqfbkA4B7AYBBwNLrhQTGeonijjeDezD0pY5Noz/QcD+ABo0aC1kJdo0aNFZX/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAlACgDASIAAhEBAxEB/8QAHAAAAgIDAQEAAAAAAAAAAAAAAAYEBQIDBwEI/8QALhAAAQMDAwMCBQQDAAAAAAAAAQIDBAAFERIhMQYTQQciFDJhcYFDUWKRscHR/8QAGAEAAwEBAAAAAAAAAAAAAAAAAAIDBAH/xAAcEQACAwEBAQEAAAAAAAAAAAAAAQIRIRIDMUH/2gAMAwEAAhEDEQA/AOGuiA7dUzFXOG2gOBegpcyBzsME/Tmnid6j2iUlKTAaJxjub/t9qSrleWnn0JjpZZCyNXcUSANzn7Co6r9ObjyY0f4VxkoOp0M6gRx7SRlPPO1ZOXKsNdxpuy0vfU1snJyISEg7Y8/4pelvrlyURrTE9zign2IJyo8AbVHkOKcjsjtoW4tCsj+Xgj64po6GuTsBt27uFPwqH2mnG0JyUEDGvfceNvNM1wrQqSnLl4UPU8G8w5LMS9gpkMNaWxgEaBuACOeaKY/UO6wb9emkW1OVgErdQpRC84OoDgedh/VFP5zuO4cn5Lp1oniJc5bCZEe1ynG87PNsqUnbncDFZuw7wnDrNsnx0Oe1J7KsK2zjJG/Ga7f6XvXlHp/BRa12wxu84433g6pYV3MBJwMYJC/xzU67ruaZlikJTEj5kNNutNvvJQtLrawCdicDnHORxVUlXwl+0fOcW4SIi1KZIQ6du4PmT9j4pr6dVCfvFqtshbsZm9ONtyy3+mla8BQzscfNjAx9a9vnpzdbf1NbLU6/FceumXGnGypSEJ1Ee7bI4O3NUMhxyLKt7zkkLfhPfD4TkgdteQUnjG/+6HFMVNrUT7nHi2qVdoaUuKcgSFxku4BxpUoBStvJGxG4P4oq99XoDdp9S+pWGUhqNKSl9CB8p16F5P5JOd6KVxVjxk6FK29SS7dAEVguBA1YxIdQBk5OyVAb4HjwKwkdR3NxxtTUyTHCHEvJS3Icwlac6VbqO43wfFFFUJmtXUF4c2duk5xJ5SqQog/cZ3rStQRAktBKSA+nSTynY8f0KKKGB0719GOrba6MapNmaK8jPGr/AIKKKKVAj//Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">仓颉</div>
-                                    <div class="artist">五月天</div>
+                                    <div class="name">富士山下</div>
+                                    <div class="artist">陈奕迅</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAQQDAQAAAAAAAAAAAAAAAAEDBgcEBQgC/8QAKRAAAQMDAwMDBQEAAAAAAAAAAQIDEQAEBRIhMQYTQVFhcQcUgaGxIv/EABgBAAMBAQAAAAAAAAAAAAAAAAECBAMA/8QAHREAAgMAAwEBAAAAAAAAAAAAAQIAAxESITFBE//aAAwDAQACEQMRAD8A6MKkttlbikoQkSpSjAA9Sa0+I6x6dzGQXYYzM2VzdpJHbbc3Mc6fCvxNRP67uPt9DlTS3PtxdM/dNoVp7jOoBSSfT1qp73oR+wsGc7j7hNmqzJfUhme4gairmYlIge9O9oQ4Ya6C40TqA6u5EDRHPvSxUf6e6kZyWHxzz0/dv26HHEARoUQCQZ4PtW/SoKTKTIp1YN4ZkyFfRAiivDrzbey1gGim5CDiZFOumW77CZW2eQVNqtFoIAncgxt5qh+nmOtrOzGOymMefxiwEE9hTjq0pOw1JG6dvMSPNdJX2Kt1ONlzW8664JK1eBudhtwIptjEMW9wkh19xxSwCtxcneTGw4gVPYhfdEprtCZhlcWeSTYsNG8ZcsynfS4gtwB5g+KsO1yGq11JURIj8x4rKvMJY5JblvfWiLplMBJdAVudz8cilscDbtWiEtqWGxwlRkDx8/us1qZT0Zo96ONYSM5O97HcdWpREiAniPmipKvC2F82Wru1S9bkg6V7ARxxyf5RXfi5+wC+seiK5car9KSRAR/n5J3/AJWS2NdyhcnShMnbYngfqaKKr+SI9R4lwPyFDt8+8+kRxT7KgEad43/Zooo5BsYeKkwYPyKKKKIiz//Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACUDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAYHBQgE/8QALxAAAQMDBAAFAgUFAAAAAAAAAQIDBAAFEQYSITEHEyJBYRRRCBUycYFSocHR8P/EABkBAQADAQEAAAAAAAAAAAAAAAQBAgMFAP/EACARAAIDAAEFAQEAAAAAAAAAAAECAAMRIQQSMUGhMlH/2gAMAwEAAhEDEQA/AEiBomIxKt7MllRlPupZeQc+jKQd+esZOMV17b7YyjS0SGhO1CIaGxg4IwkCuYLT4iaNmXNm4XBmSxNjLHlLU0pRVjo4ScH9jVlvXitao3hTJ1DZlqeLY+kQl5BQUPbfTuSecZxz0c0OjuZiHirhVWoNfyTL8Y7TUe3abbbQkLU+/wA4H6UpQB1+/vzUAtNsj3BpuK0l0zlAq9KcpwAT989U5a31pqXxJt8KJdG2HhFWpxuSljyQTgApK84PY44OcVq+GaGNL3B656qiMNQnWDFbcMnY4kqGdwSP1A7dvPVKDKoz3AN3WkEeJO/yxdvWpt9K8q5G0A8fyDRVYN2g5cnQGrZLYlPOFtl6Q0kx0JUdqcKUDyD7/FFSGf8An2Zmld/XyT2yQm3Lm3blMPRpQWUrBG1YPBxyDj/vin8aGv7+n/IsamZ6ZzoclwgnC3Ag4BUpR28dg4/mlnWerLKjXmoLjCYROTKlrcS6onBHQ24PXGc9mvLe/EObcIAiQN7EItlBiRtzKTnBJc2qyvnPZx8Vm1TB+4HieVvIOy2M6et9/sdv07MuqUy7UspbAWkLWsJOMcjdgYAA/pyOAKStXaNkw1SETbuqTb46d3lusJJDnPpIVnHHPfzUuiybhBtCJ81hiXGUvYEPtblR1HO1QJHB4/3W8nxTnC3JtdxZauMdtSfLfkJCnA2UkKQTxuHOR7jFGPTk81nnYh7d4yK0+0uTJBRa0S3ozQB27SoIUQMjv7AUU7aSj2mX9c83KSpK3ElKFAgoG3GP7UV01U4NnNPUFTklAUTjo1u2C7tWsrc8psuLG1RKO0/YH2/zRRVWUMMMYw9RguGo4M9LTBfcXHWgtvpe9gSCCkAdgjNJNyj/AE0kthaHG+0OIHChRRWdaBFxZRSQ3ma9vuLTcRCAA2R2Bxn5oooqCo2GehSxM//Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">情人</div>
-                                    <div class="artist">邓紫棋</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAnACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAYFBwEDBAj/xAAwEAACAQMCBAMGBwEAAAAAAAABAgMABBEFIQYSEzFBUWEHFCIygbEVI0JxkaHw8f/EABkBAAIDAQAAAAAAAAAAAAAAAAUHAwQGAf/EACMRAAICAgICAQUAAAAAAAAAAAECAAMEESExBRJhExRRcfD/2gAMAwEAAhEDEQA/AJCd5tE4b04QMGmmjQYIzvyg7UhXWo6hqOpLFdTywHOMSQgAnv38qZOItYSaPSIoSSYI4wwII7gDbzrrv0tr+WAQKWuXxzHypb0n6G3deTvn8Qsw9+AepBcOaR7x7SdOxEZIoIxMx8Ad8E/WrwApd4V0ZtPlubqZAs0qrGPE8q9v7NMOaBeVy/ubAB0o1LdFXop+ZpvVzazDJ3RvtRWbreCQean7UVVobQkpEoH8anaRffhEUjRVWQDlOABjam72fX+nT6vDHPcKtzKCYIz+sjv/AM8arLUIL6YAzKvKij5fKl83kttfQTW8jJNAwZXB3BBzTAs8auVWUU6PxAq3msgkT14lzC9w8Cv+YmOYEEd+2/j9K0S6jbJcxwCVHleTplVYEqcZ3H+70g8F8V6NxgkUF6Bb62vxHJ+YjAJQn9u38U5roNoJut8XVDFw+FyrE5LDbvmsPfhriuUv2CP7f6hyuytx7LzJOdcxPjyNFc5tpFIY3czAA5U4w3f09aKqDS8Aznc8pX2u311H02ZUXseQd6iN+5oop0rjpXwo1MobGbuZjkkiZXjZkYHIYHBFWLwt7WNa0vpQ6ly39quxL7SY9G8frRRUGV4/HykK3LuSpc9fKmXhpfENhq+mRXlpI3TlXmAZCCPQ0UUUtLsCpLGUb0DDyWsygmf/2Q==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">小镇姑娘</div>
-                                    <div class="artist">陶喆</div>
+                                    <div class="name">晴天</div>
+                                    <div class="artist">周杰伦</div>
                                 </div>
                             </div>
                             <div class="track">
                                 <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYFBwgEA//EACsQAAEDAwQBAgYDAQAAAAAAAAECAwQABREGEiExQQciExQyUWGBCHGRFf/EABgBAAMBAQAAAAAAAAAAAAAAAAIDBAAB/8QAHhEAAwACAwADAAAAAAAAAAAAAAECESEDMUESE2H/2gAMAwEAAhEDEQA/ANAYabY3DclX3FLs8OvSC69LWlpPX9eP3Xtc33GAlEckkD3HHFU/qrU91t5m3ZMk/KRZyYnyakp2LQFJStWcbt+VEjkAAdGuQktmpO8peFo7mFKClPKWU9cfV/tck19Qx8FspT593dKk2+PytQSLRbZYjGGwH3nPl/ilalcJQM8AeT5OQBXDr1yLdbjo9z/pITDktupW0ElbRfCTnckfUR4BNH9ilgrhdJfpPuhxIV3+KKl9O6bnHTcV2S6HCUkoUTlSk5O3nycY5oqhcyx2S1wtPBNxnXZAEfCFhftzSNr7Q1ghxrtedRSXW7Yh9uarbn2rSlKSlIB9xWUgdZyTTzpxs/GU6pOdgA/Z4pS9bpSLuxZNJw3mnJlxuKDIbzuLTCMrUpQHQOAOe6m+CRdxvWWVLpu13TXHqhqVqFLdtcdcc7wEhSkHCMJ5+x88dHFQF8uF99KrnHsNwjsSER5Dcxl5aSQ4kApOw9pChkHz4rRmnLXbIF4uFxhyGVXeQpLjyGyPanaEgEDrrPNVd/K20OXK02q+xGFL+WKmJG0bihJwoEkeBg/7QThvY+5aWvBBuHrHdjq0XGxPzotmQULNscf3IVgDfxjA3fjruiqpZcShJBAyofeinKUS1t5Zud+W4++LSx8yFuqbcedYJSptGSc7gOOv8pK0VpZy/NzNSvRZLTExSvhEycLdQkkZUr6gCQTjjPZoooPRsroe9MWhK7JHejNNxGX071NNtg57xlR5V+66J9ruD9jejtqZdeKd6fioykkHpQ8gjg/g0UUM9j66Mr+pmhWY9vl32zwnbaIsgx59rcOTFXxhSFA+5CgQR/fHHRRRR5J7lZP/2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">我們的爱</div>
+                                    <div class="name">Lydia</div>
                                     <div class="artist">飞儿乐团</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUCAwYEB//EAC8QAAIBAwMDAgQFBQAAAAAAAAECAwQFEQASIQYxQRMiBzJRYRQVQlKBYnGCkaH/xAAZAQADAQEBAAAAAAAAAAAAAAABAwQCAAX/xAAgEQABAwMFAQAAAAAAAAAAAAABAAIDESExBAUSQWET/9oADAMBAAIRAxEAPwDEfDWzW2phaouEEcrTkwh5HwIefnUdm+4wSfGNbMdIQqwBipSGJCEICGx9PrpN8PaqGh+HdXV1UZeOFpm7A5PAAweO+NTf4hxJDJUflkNNDHiNZPUYPI5IyVRThRg555I7fTVRe+p4hRajZYpmtMshqb2tY9LrSzWhmZBLQ7lJBygGDnHn76vXpWlmTdAlFID+0KdNrjPa6SnqYopbdNDU7pJZGm9RPDRhipzncMeMlueM6j0vJYUognU9PTTR7XYxFzG6lSu0sykYAH1H+9FszsledNsETKt+pBHq8s+IlFT0P4WKEQiXe24RAcf3x9/GjWZu1wmrpjv3+izNLEJeXwzH5m89tGnEk5VOngEEYjaSadp103Ti70kdmpGq6y61TstPSev6VPFxn1GOfceMgduNbe9dFdP9NWMWOYQVvWNbTM8kpLNFRouWZxtBOcA4yO3gDvg+naerb8LLQiGKd/WCSrI0bjYu5gSD5HAx3PB10WuouNPfZa2CoSquj0vrb5wZd6unIIwQTtbkNxjSS01sbKsyEtvla3ovpd+vum7/ACUcFBb5rckSwx0aFFqZRkgsWJHIGPHcHxpV1VS3mwW9I770qkKtF6K1RkfIG4nBeMgf4sT2yNJIWLUrU0Uc1NSvCspCVywmUL7VZkPtLE88847Htqm6V16rIq7dcKprenzQvXmYBcqAD7ueWHOMHnHbXcTy8WXEOaAcpE0kclLCMP66e05/b4wc/wDMfzo1Vo04pYr2rVqJ1RUWaUKM4UOcDPfA1dUV0tTAsdUFmZMBJH+dQP058j7HOPGNGjQXJvZbyv53b6iqpaR50k2vNLgIYzwcqfbkA4B7AYBBwNLrhQTGeonijjeDezD0pY5Noz/QcD+ABo0aC1kJdo0aNFZX/9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">有些事现在不做 一辈子都不会做了</div>
+                                    <div class="artist">五月天</div>
                                 </div>
                             </div>
                         </div>
@@ -2060,7 +2060,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Dec 2025, 02:26:49 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 17 Dec 2025, 02:27:51 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
