@@ -22,6 +22,7 @@ jobs:
           user: tbjuechen
           template: classic
           base: header, activity, community, repositories, metadata
+          config_display: columns
           config_timezone: Asia/Shanghai
           plugin_calendar: yes
           plugin_calendar_limit: 1
@@ -54,3 +55,6 @@ jobs:
           plugin_wakatime: yes
           plugin_wakatime_sections: time, projects, languages, editors, os
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+          plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
+          plugin_steam: yes
+          plugin_steam_user: "0"
