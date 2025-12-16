@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1258" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1138" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal{justify-content:space-around}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.tracklist,footer{display:flex;flex-direction:column}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.tracklist{align-items:flex-start;margin-left:28px;margin-top:4px;width:100%}.track{display:flex;align-items:center;justify-content:center;margin-bottom:4px}.track img{margin:0 10px;border-radius:7px;flex-shrink:0}.track .artist,.track .name{width:387px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.track .name{font-size:14px;line-height:14px;height:14px;font-weight:600}.track .artist{font-size:12px;color:#666}.track .infos{flex-grow:1}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;display:flex;flex-direction:column;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.activity .field,.chart-bars.horizontal .entry .name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.activity{margin-bottom:12px}.activity .field{width:100%;max-width:450px;margin-bottom:0}.activity .issue{display:inline;color:#58a6ff}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.tracklist,footer{display:flex;flex-direction:column}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.tracklist{align-items:flex-start;margin-left:28px;margin-top:4px;width:100%}.track{display:flex;align-items:center;justify-content:center;margin-bottom:4px}.track img{margin:0 10px;border-radius:7px;flex-shrink:0}.track .artist,.track .name{width:387px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.track .name{font-size:14px;line-height:14px;height:14px;font-weight:600}.track .artist{font-size:12px;color:#666}.track .infos{flex-grow:1}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            402 Commits
+                            403 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    729k added, 3.48k removed
+                                    20.8k added, 1.85k removed
                                 </div>
                             </section>
                             <section>
@@ -308,31 +308,31 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMAAwAAAAAAAAAAAAAAAAYDBQcBAgT/xAAsEAACAQMDAQYGAwAAAAAAAAABAgMABBEFEiExBhMiQVFhFBUycYGhB0Lw/8QAFwEBAQEBAAAAAAAAAAAAAAAABAMGBf/EAB4RAAEEAgMBAAAAAAAAAAAAAAEAAgMRBCESMUEi/9oADAMBAAIRAxEAPwDP/kzMVzGMAY4GP8akutKENpLP3ZYoudqjk+XQVpq6KB1ArzF7C01WGzF1CmoEgxRtzluoHTH4rSyP1orMNErnDl0sgvrbUtKukk1CBFVsOYWUKdpPUDzH68qY00MFElVchhuGRxgimL+VO2FvrEV3aQ6YHuUhWCSYOPEqvv2gDOMt71YdmNO1WbTkOs2sUBaNWhEY428jB5IyMetCxpnk0/RKblwVuHdJH+R57zCnhTjiitPGjqA3h5IxRTuZQgJh4rf4kegpD12+tjqF1Zpt71LyO/WcE5ULtEkY9ScLTPHcxs3DgDP5pF+E3xXly4bEk+cKvIHJY+tBmeHgBa3NgELfkdrvqui6Wth81j1CeLVLq4aOSPcMHJzjOeAAfL2p2gTTlu7mS/uZrVLO1gktw07bYPCpboQGDFscg1ndzps89tYhYQkaxb+Rjksc59TU2pabLc2aBrg7bjY0jO+7hPCo+wz08qO6P29osQ1pq1NbtGAK7Sp6EHIopI7EKbPTbm3uZwwinIRSfpGBn90U0ShdOHFZIwOqktJ2iiWSIKzKwUd5lgQT7e3T1riTWt3dwwyxCQlnJaTaoBGMHjrRRRVLOcXAC+1fadqkEsGHO0KhCI7K5XaV/ZGenBqGfV7NLWbu3XajHaCyh2OT1UHj7eVFFSpHgkcKpLMvaHE0ndtgEbvq/tRRRVLXda40v//Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACUDASIAAhEBAxEB/8QAGwAAAQUBAQAAAAAAAAAAAAAAAAMEBgcIBQL/xAAvEAABAwMDAwMCBQUAAAAAAAABAgMEAAURBhIhBxMxCEFRFDIiI2FxoSdCY4HC/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAIDAf/EABoRAQEBAQEBAQAAAAAAAAAAAAABEQISITH/2gAMAwEAAhEDEQA/ALtu065NXmYGpbyGUK4SOQBj24pYSbr2gUSlqX8HHP8AFR1rW9jm69vFhXLDF0jP9rsO8dzgHKD7+fFL9TNXs6D0o5dnGBIe7iWWWSraFrVk8n4ABNTvX3FueY7tuvqZk2TDjXZmRLikCQy24lS2ifG4DxXR78s5BfXg/HFZ/wDTW6y9fLzIbloTHeeV2WFNDetahvVlzycAjj3xk1okNjPGef4pPVNecPLW44ttZcUVEH3or3b0BDSgPnniiqS/Eb+sE9c1qR1k1SttZS4iblJBwQdieQaYX/qBfNRaYgWK9viSzDeLzT7g/M+0pAUffzwTzTnryf6yarBHH1n/AAmo3bLfDn29SXJ7UWX3kpbS6rhScHPH74A/ems1suLK6Ja0s2mbpaDdpf08Zl6Y/IIQTgqZbQ3wBz/fVjt+pGNJk3kQ7U01FjslUFyQ8d768gAKQBgec/cMAec1nRizW9UYly6NNOpSsL3nA3BRAAHnxg/7rkLQiNNcaS4iQlCtqXWz+FQ+R+lJ4lpr1W3PThqu5assd7k3Z5bzjUwBOTwkFAOB+lFRv0cL3aW1AAPE1Hv/AIxRT5E1X9YOnerrr1Q1JOt+nLlKhvyd7TzbJUlY2pGQahz3TLXzTeI+lr0kk87Y5oooB5G6fa4bLZGkr/u24WXI+RkeMe9INdMNaleV6TvGTuyfpj7qzRRQ3WkvSzpy76c07fGb5bJVvddloW2mQ1sK0hAGRRRRWlf/2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">香水 (LIVE)</div>
-                                    <div class="artist">五月天</div>
+                                    <div class="name">一路向北 (Bonus Track)</div>
+                                    <div class="artist">周杰伦</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwADAQAAAAAAAAAAAAAAAAUGAwQHAf/EAC0QAAEDAwMDAwMEAwAAAAAAAAECAwQABRESITEGIkETUZEHFHEVI2GhFjKx/8QAGQEBAAMBAQAAAAAAAAAAAAAAAQACAwQF/8QAHREBAAICAwEBAAAAAAAAAAAAAQACERIDITEiQf/aAAwDAQACEQMRAD8A5HYZzAtcFpt94slKULaaSEKcXjck5yQPimrkdch11VvLqpDQCUuOL0hsHjOai7JIjtQkNqZk/cq0+ktjdRV7D2+DTOdHmtxkRUx5TGpP78mQsEaeeRwP+153Jx/Xsthxmb0q1x2JDP8Ak0l1S3dWt9twLGcjA34OMnjBrY6W6Tt81IcddUtgy1MLfQ4AkDSopP8AQP8AXNT9uYZS6h1MwIU2rZbmMJT+Dv8AGaYp6qfiyNDUZL8dOU9rncvbY6vBzvsONv5rQ2DFfZOpj6vszVotrLzU9h5xxOlQbKS4chWScbgcDB3or299Rxn7KG2Ii4z6ysrUEZCUqB7Mnkj3x5O/sVvVtjsh1FfTEn0QysXKJDWBp1PoKtI2PA8Hj3rcvd8lyW1Q/wBWgvRsk/tJUgKHtuM1Y/TL6eqvEOE5drK6zGTmV9w42oCQ2UdqQvOOcEfNIr/0tD6ec6ngr0vlpLT0eQ4nSfSU7pBQAcbgjnxxS8Y2yka2zX3qQjbqVFYGBnGNjz84xWE6hqK3MKBGEkHf+apkWm2u2+Ow6t1l5Be9R8d4UQElI0jcDfGfwfFWqfp9a3rvdJLyVi1x2goNoWQUZ9PfUedl7Z580qV/I1rsKeE5czLeVAkxspKVpzk87HPPmiq/qX6fqsdlhXJckSESEOFxtKDhlSR/oVZ3OfI5xRS2CU2IxXJubvT9shLnzI8H0WQpw4HKe0IwASPHJp9AkPSY8t25xJUlZaRDT6sdS0lCMBK86dz2555xRRXLy3WosaW1cEczJbrk2eVoLlrw+Wkqi9nejAAITuMq9/xWfq29PKluNW19DadaXIzjEfSppJQnLatsnfkHkAZFFFX2UZK2a9Elb/8AcSbQ/GczGZZirU00kK06sqKj3DPnjOwooorLeyGZSz35P//Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMBAQEAAAAAAAAAAAAAAAMGBwgBBAX/xAAzEAABAwMCAgYIBwAAAAAAAAABAgMEAAURBiESMQcTQVGBsSIyMzRCcXJzFiNTYZGhwf/EABgBAQEAAwAAAAAAAAAAAAAAAAADAQIE/8QAHxEAAgICAQUAAAAAAAAAAAAAAAECAxEhFBMiMUFR/9oADAMBAAIRAxEAPwDUVv8AcI32k+Qp9It/uEb7SfIUu5XGHbIxkXCS1GZBxxuKwM91Aes1ykw5cebHQ/DebfYXulxtQUD4inmgFyPYOfSfKiuSPYO/SfKigFQVpECOT+knn8hWeumPVyL3qEQYbnFDhZTkclL+JXy5CvTrXpNV+AXGG8IlyUJjAJJGB8RHgKpaHdo6ETS6V9YprhbGOasjOT2DFTujJaOuFEoPuRpzoDZUjT0x0OpWytxITwKyMgHi8dx/VWgVpwTkY76yd0M6sctc24x0uOIS+yFJSBkFQPZ4GpladYXdm7y1lb6mkhX5R9VG+d9qrTW5RMceVjbResqQkMuDI9U+VFUbcdeT3i83ISUJIylA9EgHv79qKr0pGeJNFEakeMiRAhsYW6EFxSU8htt/tRyRxNSXmlLCilRTkCiitbt7O+3y2SbTWs73ZW4TES4ux4Da1JLbR4d1b5Vjc7nt5VLX9Yaj69ZRdHw5sFekcdoG5P7n+aKK3o+ClJ+j5Vw1BcnXmzcpDj5aSUthwnYE52PdRRRVmyklh4R//9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">夜访吸血鬼</div>
-                                    <div class="artist">五月天</div>
+                                    <div class="name">空白格</div>
+                                    <div class="artist">蔡健雅</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMAAwAAAAAAAAAAAAAAAAcCAwYEBQj/xAAuEAABAwMCBAQGAwEAAAAAAAABAgMEAAURBhIHEyExIkFhcRQVI1GR0SSB8PH/xAAZAQACAwEAAAAAAAAAAAAAAAAABAECBQP/xAAfEQACAgMAAwEBAAAAAAAAAAABAgADBBETEiExFEH/2gAMAwEAAhEDEQA/AGNqHjOLLf5trdsrzioy9vNDgAX0ByB3864h46tAqzZ/CO/8gZHuMUq+Ivzh/iNd022FJfjoeCSUIKhu2jNSh21mFqGO5eYCn48daFOslWxCsg9FE+QOMj7UrZey2FYxXjhqw39jOTx8jqAKLK4UE43B4YzV7fHNlThQ5ZXmlAZ8bgA/NGqLrorUGhrjGbVbI81MbmMpbb5SgsDwhCto3DIxgd/tSKjWCZcHbdCtkh9fxC1b1gFzlN9M9uuMkUNcw+GV4+9anofTvF5u9XGJEbti2viXC0lZWCAcE/jpRS203ppyway00Q4/IiOlKkOuNFBCiFDBB6g9KKbxW81JaKZSmpwBGTfLC5db0tUKQWFcoBzljGVAkglXYHrjGDkVidR8N9TXKc3LeuDUdtHLUrY6XjlPc7SBuHpkd6b8ZsMrdWkqJdVuOew9qsekhvG8kZ9KzXR3ubQ2Y6MkLWoPwRRTNMP3aHBimS78IxMS5NCooRuaBJGw9icnt16H062SIekrXr21wrOzcYYktqS4plX01FRG3r1OQR6d6agQJaFbCCkf9rrJGmecvmMqCF5HiSrBo53IPEpLfrR28iZio+lNXP69tU+7NsxrJbVLLLSJHMUs4IClDz79PsDRWyj2ObFmMSZE19xDXhCeaSnB8iOx/uitLCBCEEa9xDKcOwJM0qrJIJP1G+uf92qDlhkKVnmoz7miiuovcShx0MsjWaUwFBDrfix5qq75fO8pCQPc/qiio7MfZhwQDQkVWuYvAcfSoD1P6oooo7MIcEn/2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAQQDAQAAAAAAAAAAAAAAAAMEBgcBAgUI/8QALxAAAgAFAwIEBQQDAAAAAAAAAQIAAwQFEQYSIRNBBxQxUSJhgaGxFTJCccHC0f/EABgBAQEBAQEAAAAAAAAAAAAAAAACAwEE/8QAHREAAgMAAgMAAAAAAAAAAAAAAAECESETQQMxYf/aAAwDAQACEQMRAD8A9Da0vR03pa5XlaY1RopXU6O/Zv5AxnBx6+0V9ZvFqsuiB1sCSh86on/WJz4hU4qtDXuS7KivSsCzeg+ZxFR2ai8nTorSmD4zhFzu/rHr9IqNdmfkk1iLAGuaqZL3JQywfnM4/EcC/wDiVf6GQz0tooHwP5u/+DCNurqSttdRV0m6csgN1FC7WUqMkENjmI3q68UlPpeXdpbpNpndF2nIYq3ce2PYwcoma5WXlpqum3XTlruNRLSXOqqaXOdE/arMoJAzzjMENtCOkzRVjaWwZDSS9pB4IxBEnoXoNfAtoa/hVLN5GcQAMk/CTFT+G1dUVySqOfJnSqYoWJMoqUOOCpI4OfaL0U+vMa1LTzIby+0ze270jjVqiZRvSCSLZaZPXt6082Yk2a0+azyy29nzuy2PTtjtCNRaaGm05PoaGzp0djotP0S4xk8cjJHOYmu+4Bpm5pJ+JxLBOO42fbdDmS03Y3WA37mxg9s8faMuH6Gm+zh6ApP07RdmolSdLFPTiUEnKUcAEjkHkfWCO+Tz6jEEbLEVomszOf8AsZ6ij3gggBLpyC4cyl353ZI5znP5jaZOAViAWx2EEEANWuD9RF8tN2nGWPb7QQQQB//Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">热带雨林</div>
+                                    <div class="name">你曾是少年</div>
                                     <div class="artist">S.H.E</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMAAwAAAAAAAAAAAAAAAAQCAwUGBwj/xAAtEAACAQMDAgQFBQEAAAAAAAABAgMABBEFEiEGMRNBUYEUIlKRwRVhcYKh0f/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDzXoK7jPjGcDv71uad8DcOIrmeWK43AbEjLnHOeAOeawNIcRw3b+IEdVBXkcnnjB71RbTnezMzbgC2c8+VB2ENBg+KEaSXT5XKk27LubnIwRkDt96yNRjsbe5a3t7qR50OHjkjKkfel5WvNP0Kw1F3eRJm4wHG30yxG09jwD5VxdpGmuTJM5LM2XYnk+tA/r+D4BU5B3cj2oqXUG3bbbAQuCAMY44ooIaMhkhu41i8VmCgDsB37mkJUMMkisBkZXj1rW6Y73Izg4X80xqtrElgQigbTuLHufXmgruNYurrpqy0yaRWtreRmiUDnJHOT/zFZ9hC1xcKBGHUYbvyP2rUttCnuNLh1COB4rGadbdZpM7UbHPzduTn/KW0hGtLuTx1KgZXP0nPnQHUu7FsXAB+bj3FFS6oIPwpGCMNyD/FFBV0821p/wCv5p7VXMdoskib42I+XOMjPPPl6UUUFVhr00dpNo8IP6RdTI7QTESGNgRyrYGD7dqYtlYXTRSEu6sxdj5jyz7UUUGb1BB4DwhWPhtuKr9PbNFFFB//2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACQDASIAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAAAAcIBgMBBP/EADEQAAEDAgUDAgQFBQAAAAAAAAECAwQAEQUGEiExE0FRByIIFRYyFCNCcYFykaHC4f/EABcBAQEBAQAAAAAAAAAAAAAAAAUDBAb/xAAjEQABBAEDBAMAAAAAAAAAAAABAAIDBBESEzEFFEFRISJx/9oADAMBAAIRAxEAPwCYcHCFYpFDqErb6g1JVwRVh5AgM/TrElzSkPC9huf78ipIgTUx1tLVKcJQU2b6QKT5BN6sTLKh9KRXYkxlxLjKUoUlIsq9hcEcG/esd2wIWgnyr165ndgFLX1zhodx/BkPaUxjAdSXLe0e/wD7ekXJgFplEhDbnSupsrKCBfkbkeKsbGcutzHBExJXVbKQgLvdSCRc79qyXqHk7CMIyBPjRwpbmkFAWsqJc+1PJ5JIF6ww3ieQtsvTRp+rvClxggIt7eTzRXTGIjcDEn4keQiSlkhCnU7pUsAatJ7i9xfvRS2QflE7JXDXhv4XT0pHX0D3XFtXf+Kevw7ZhVKYjYRPebMWKtZShwE7H3C3ixpUZByNiGcJJDChHiBWgyHEkpK7X0iw57+B3IuKaWXfT5jLmqdDx7WGk6nXD+WkjYgpBG4UDtvuN71K3BvRFo5WqrLtSajwnXj8wfOYxbitrKQVBV7Eb8i48HzSu+IbFujklUcXLkuShsnwBdX+orWZax840zrivBbdikrUnn+mvM3enTWfoiMKMt2K+0lchl5ICk9QJ2Cx3B42II/xQFcHuGtd7T85HbEt9KQY/wBh/eivoXBkRXnWH2Fh1tZQoFPBGxorp1y2oe03Mgxcx4WUPzG8Ri4bDZVePGdBW6jc9MA7IBKyVKPatLP+bTMPVKfcYwKA7ZxnD5QDy3NrBStWybpAFrbAD9qKKnbJjiLm8qtHEsjQ8Le5Fw1tnAWHU6UIB/QBY33JFtuaaWTIOhb0xxsgJT0kdyonc8fxRRQtJgdYyUzceRBgfix2bvQrAs0Y27iynn4jj4BW2kW93miiinsBA6Qv/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">陀飞轮</div>
-                                    <div class="artist">陈奕迅</div>
+                                    <div class="name">半岛铁盒</div>
+                                    <div class="artist">周杰伦</div>
                                 </div>
                             </div>
                         </div>
@@ -1863,19 +1863,19 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"/>
                             </svg>
-                            ~1 coding hours recorded
+                            ~4 coding hours recorded
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
                             </svg>
-                            Working on hias-postgraduat…
+                            Working on Chinese-Resume-i…
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/>
                             </svg>
-                            Mostly coding in Python
+                            Mostly coding in Typst
                         </div>
                     </section>
                     <section class="largeable-column-fields">
@@ -1883,7 +1883,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M6 2a.75.75 0 01.696.471L10 10.731l1.304-3.26A.75.75 0 0112 7h3.25a.75.75 0 010 1.5h-2.742l-1.812 4.528a.75.75 0 01-1.392 0L6 4.77 4.696 8.03A.75.75 0 014 8.5H.75a.75.75 0 010-1.5h2.742l1.812-4.529A.75.75 0 016 2z"/>
                             </svg>
-                            ~1 hours of coding per day
+                            ~2 hours of coding per day
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1899,42 +1899,10 @@
                         </div>
                     </section>
                 </div>
-                <div class="row">
-                    <section class="column chart">
-                        <h3>Projects activity</h3>
-                        <div class="chart-bars horizontal">
-                            <div class="entry">
-                                <span class="name">hias-postgraduate-help-bot</span>
-                                <div class="bar" style="width: 50%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">63%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">Chinese-Resume-in-Typst</span>
-                                <div class="bar" style="width: 30%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">38%</span>
-                            </div>
-                        </div>
-                    </section>
-                    <section class="column chart">
-                        <h3>Language activity</h3>
-                        <div class="chart-bars horizontal">
-                            <div class="entry">
-                                <span class="name">Python</span>
-                                <div class="bar" style="width: 50%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">63%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">Typst</span>
-                                <div class="bar" style="width: 30%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">38%</span>
-                            </div>
-                        </div>
-                    </section>
-                </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Dec 2025, 02:11:33 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 17 Dec 2025, 02:15:08 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
