@@ -23,21 +23,8 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Shanghai
-          plugin_activity: yes
-          plugin_activity_days: 14
-          plugin_activity_filter: all
-          plugin_activity_limit: 5
-          plugin_activity_load: 300
-          plugin_activity_visibility: all
           plugin_calendar: yes
           plugin_calendar_limit: 1
-          plugin_habits: yes
-          plugin_habits_charts_type: classic
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_from: 200
-          plugin_habits_languages_limit: 8
-          plugin_habits_languages_threshold: 0%
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           plugin_languages: yes
@@ -55,3 +42,15 @@ jobs:
           plugin_lines_history_limit: 1
           plugin_lines_repositories_limit: 4
           plugin_lines_sections: base
+          plugin_traffic: yes
+          # 开启音乐插件
+          plugin_music: yes
+          
+          # 设置为 playlist 模式（必须，因为 Apple Music 仅支持此模式）
+          plugin_music_provider: apple
+          
+          # 填入你刚才复制的 Embed URL
+          plugin_music_playlist: https://music.apple.com/cn/playlist/%E8%BD%A6%E8%BD%BD/pl.u-RRbVvlxIDLbaAm
+          
+          # 限制显示的歌曲数量
+          plugin_music_limit: 4
