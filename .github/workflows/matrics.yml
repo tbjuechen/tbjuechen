@@ -62,12 +62,12 @@ jobs:
           plugin_music: yes
           plugin_music_provider: apple 
           plugin_music_playlist: https://embed.music.apple.com/cn/playlist/%E8%BD%A6%E8%BD%BD/pl.u-RRbVvlxIDLbaAm       
-          plugin_music_limit: 4
+          plugin_music_limit: 6
           plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
           plugin_steam: yes
           plugin_steam_user: "76561198865138886"    
           plugin_steam_games_ignored: 730
-          
+
 
           
 
