@@ -47,9 +47,9 @@ jobs:
           plugin_wakatime: yes
           plugin_wakatime_sections: time, projects, languages, editors, os
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
-          plugin_topics: yes
-          plugin_topics_limit: 0
-          plugin_topics_mode: icons
+          # plugin_topics: yes
+          # plugin_topics_limit: 0
+          # plugin_topics_mode: icons
 
       - name: Media
         if: ${{ success() || failure() }}
@@ -62,10 +62,12 @@ jobs:
           plugin_music: yes
           plugin_music_provider: apple 
           plugin_music_playlist: https://embed.music.apple.com/cn/playlist/%E8%BD%A6%E8%BD%BD/pl.u-RRbVvlxIDLbaAm       
-          plugin_music_limit: 8
+          plugin_music_limit: 4
           plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
           plugin_steam: yes
-          plugin_steam_user: "76561198865138886"          
+          plugin_steam_user: "76561198865138886"    
+          plugin_steam_games_ignored: 730
+          
 
           
 
